@@ -14,9 +14,11 @@ h1 {
   color: SteelBlue;
   font-family: 'Love Ya Like A Sister', cursive;
   font-size: 36px;
+  font-weight: normal;
 }
 
 h2{
   font-family: 'Love Ya Like A Sister', cursive;
   font-size: 24px;
+  font-weight: 900;
 }
