@@ -33,3 +33,11 @@ a{
   color: green;
   text-decoration: none;
 }
+
+element:state{
+  /*CSS rules go here*/
+}
+
+a:hover{
+  text-decoration: underline;
+}
