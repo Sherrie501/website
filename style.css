@@ -1,6 +1,6 @@
 /* Ok, I had to get some help from my sonshine! Sometimes a person has to make a note for themselves, people get too busy and forget the steps to take.*/
 *{
-  font-size: 100%
+  font-size: 100%;
 }
 }
 body {
@@ -13,16 +13,10 @@ body {
 h1 {
   color: SteelBlue;
   font-family: 'Love Ya Like A Sister', cursive;
+  font-size: 36px;
 }
 
 h2{
   font-family: 'Love Ya Like A Sister', cursive;
-}
-h1{
-  font-size: 36px;
-
-}
-
-h2{
-  font-size: 24px
+  font-size: 24px;
 }
