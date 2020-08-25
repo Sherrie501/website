@@ -1,5 +1,8 @@
 /* Ok, I had to get some help from my sonshine! Sometimes a person has to make a note for themselves, people get too busy and forget the steps to take.*/
-
+*{
+  font-size: 100%
+}
+}
 body {
   background-color: AliceBlue;
   color: DarkSlateBlue;
