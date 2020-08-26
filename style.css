@@ -13,13 +13,18 @@ body {
   font-size: 18px;
 }
 
-
   header,
   section,
   footer {
     padding: 30px;
 }
 
+h1{
+  border-bottom: 1px solid black;
+}
+section{
+  border: 1px dashed red;
+}
 
 h1, h2, h3{
   margin-bottom: 20px;
