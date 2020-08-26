@@ -88,4 +88,15 @@ section{
   text-decoration: underline;
 }
 
-/* Create two equal columns*
+/* Create two equal columns*/
+.column{
+  floag: left;
+  width: 50%
+}
+
+/*Clear floats after the colu*/
+.row:after {
+  content:'';
+  display: table;
+  clear: both;
+}
