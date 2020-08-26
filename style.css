@@ -7,6 +7,10 @@
   /*border: 1 px solid red;*/
 }
 
+img{
+  width: 400px
+}
+
 body {
   background-color: AliceBlue;
   color: DarkSlateBlue;
