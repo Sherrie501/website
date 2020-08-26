@@ -1,4 +1,5 @@
 /* Ok, I had to get some help from my sonshine! Sometimes a person has to make a note for themselves, people get too busy and forget the steps to take.*/
+
 *{
   font-size: 100%;
   margin: 0;
@@ -21,7 +22,8 @@ body {
 header{
   border-bottom: 5ps blue;
 }
-  section,
+
+  section{}
   footer {
     padding: 30px;
 }
