@@ -98,3 +98,7 @@ section{
     <h1> "Favorite Foods Gran Made"</h1>
   </section>
 </div>>
+
+.container{
+  max-width: 1000px
+}
