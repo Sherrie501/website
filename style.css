@@ -105,5 +105,6 @@ section{
 
 .banner {
   height: 350px;
-  background-image: url(sessep/banner.jpg)
+  background-image: url(images/banner.jpg)
+  background-size: cover;
 }
