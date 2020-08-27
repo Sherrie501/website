@@ -86,7 +86,7 @@ section{
 
 .ok{
   font-size: 48px;
- 
+
 }
 
 
@@ -100,4 +100,10 @@ section{
 .box {
   background-image: url(file.jpg);
   background-repeat: no-repeat:
+}
+
+
+.banner {
+  height: 350px;
+  background-image: url(images/banner.jpg)
 }
