@@ -25,7 +25,8 @@ header{
   border-bottom: 5ps blue;
 }
 
-
+header,
+section,
 footer {
     padding: 30px;
 }
