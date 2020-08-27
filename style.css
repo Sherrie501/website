@@ -108,3 +108,15 @@ section{
   background-image: url(images/banner.jpg)
   background-size: cover;
 }
+
+.banner {
+  background-position: center;
+}
+
+.photo {
+  background-position: 50% right;
+}
+
+.icon {
+  background-position: 0 100px
+}
