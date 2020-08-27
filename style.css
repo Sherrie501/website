@@ -95,3 +95,9 @@ section{
   max-width: 1000px
   margin: 0 auto;
 }
+
+
+.box {
+  background-image: url(file.jpg);
+  background-repeat: no-repeat:
+}
