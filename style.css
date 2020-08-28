@@ -136,3 +136,7 @@ section {
     margin-right: auto;
     width: 50%;
 }
+
+li{
+  display: inline-block;
+}
