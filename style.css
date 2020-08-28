@@ -146,3 +146,7 @@ section {
   width: 45%;
   float: right;
 }
+
+.clear{
+  clear: both
+}
