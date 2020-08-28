@@ -72,6 +72,7 @@ ul,ol {
 a {
   color: green;
   text-decoration: none;
+  padding: 20px;
 }
 
 element:state {
@@ -115,6 +116,7 @@ section {
   background-position: center;
   margin-bottom: 50px;
 }
+
 
 .banner {
   background-position: center;
